@@ -15,15 +15,15 @@
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "required": true
         },
-        "API_HASH": {6ebd50aa6d17bf49561b3aa17859149c}
+        "API_HASH": {6ebd50aa6d17bf49561b3aa17859149c
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "required": true
         },
-        "BOT_TOKEN": {7245944889:AAH8h3LLQgwIsW2SHpZPvHREqQ599aS34R0}
+        "BOT_TOKEN": {7245944889:AAH8h3LLQgwIsW2SHpZPvHREqQ599aS34RO
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "required": true
         },
-        "PORT": {
+        "PORT": {6978
             "description": "𝘌𝘕𝘛𝘌𝘙 𝘈𝘕𝘠 𝘗𝘖𝘙𝘛 𝘓𝘐𝘒𝘌 8080",
             "required": true
         }
